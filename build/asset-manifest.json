@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TextUtiles/static/css/main.93191233.css",
+    "main.js": "/TextUtiles/static/js/main.dc0df2d8.js",
+    "static/js/787.28cb0dcd.chunk.js": "/TextUtiles/static/js/787.28cb0dcd.chunk.js",
+    "static/media/dice-bg-background.jpg": "/TextUtiles/static/media/dice-bg-background.4d56709583643c64e243.jpg",
+    "index.html": "/TextUtiles/index.html",
+    "main.93191233.css.map": "/TextUtiles/static/css/main.93191233.css.map",
+    "main.dc0df2d8.js.map": "/TextUtiles/static/js/main.dc0df2d8.js.map",
+    "787.28cb0dcd.chunk.js.map": "/TextUtiles/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93191233.css",
+    "static/js/main.dc0df2d8.js"
+  ]
+}
